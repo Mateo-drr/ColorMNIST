@@ -1,8 +1,7 @@
 # ColorMNIST
 Code to recreate the Color MNIST dataset used in Invariant Risk Minimization - https://arxiv.org/pdf/1907.02893.pdf
 
-This code was taken from https://colab.research.google.com/github/reiinakano/invariant-risk-minimization/blob/master/invariant_risk_minimization_colored_mnist.ipynb?authuser=2#scrollTo=EwUoQZCyvs6T and it was updated and compared to the actual implementation from the paper.
-
+This code was taken from https://colab.research.google.com/github/reiinakano/invariant-risk-minimization/blob/master/invariant_risk_minimization_colored_mnist.ipynb?authuser=2#scrollTo=EwUoQZCyvs6T and it was updated and modified to use all the MNIST data.
 To use the code simply do the following:
 
     import CMNIST as dl
