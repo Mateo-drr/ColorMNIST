@@ -5,7 +5,7 @@ This code was taken from https://colab.research.google.com/github/reiinakano/inv
 
 To use the code simply do the following:
 
-import CMNIST as dl
+    import CMNIST as dl
 
 Create datasets for training and test environments
 
